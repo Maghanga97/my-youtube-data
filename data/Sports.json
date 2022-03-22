@@ -1,0 +1,503 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "ikGpYwIjsJIpgqxTz_6d2kIAd6Y",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "3msEs_yb2JZqJmn8exdu2zmCn_Y",
+            "id": "Lm60wE7P0js",
+            "statistics": {
+                "viewCount": "1228118",
+                "likeCount": "18223",
+                "favoriteCount": "0",
+                "commentCount": "2247"
+            },
+            "topicDetails": {
+                "topicCategories": [
+                    "https://en.wikipedia.org/wiki/Association_football",
+                    "https://en.wikipedia.org/wiki/Sport"
+                ]
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "XOhLm7TEe22Xl16zloXODXaB7ZI",
+            "id": "wIYPuzWCCSw",
+            "statistics": {
+                "viewCount": "6287488",
+                "likeCount": "171084",
+                "favoriteCount": "0",
+                "commentCount": "9782"
+            },
+            "topicDetails": {
+                "topicCategories": [
+                    "https://en.wikipedia.org/wiki/Motorsport",
+                    "https://en.wikipedia.org/wiki/Sport"
+                ]
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "QvuuVpwSybwC68g_QBlUdNlYhAs",
+            "id": "jARu2LdrEAA",
+            "statistics": {
+                "viewCount": "1584964",
+                "likeCount": "63476",
+                "favoriteCount": "0",
+                "commentCount": "1281"
+            },
+            "topicDetails": {
+                "topicCategories": [
+                    "https://en.wikipedia.org/wiki/Basketball",
+                    "https://en.wikipedia.org/wiki/Sport"
+                ]
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "p_p56q1Wc51toX1T7TMu6Sf6U1E",
+            "id": "6lKnRZLR_Lw",
+            "statistics": {
+                "viewCount": "1764255",
+                "likeCount": "20843",
+                "favoriteCount": "0",
+                "commentCount": "2718"
+            },
+            "topicDetails": {
+                "topicCategories": [
+                    "https://en.wikipedia.org/wiki/Basketball",
+                    "https://en.wikipedia.org/wiki/Sport"
+                ]
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "lRtejQmstDHK74_156RjzkaxqLI",
+            "id": "FKfG40EAoBw",
+            "statistics": {
+                "viewCount": "664244",
+                "likeCount": "6568",
+                "favoriteCount": "0",
+                "commentCount": "1154"
+            },
+            "topicDetails": {
+                "topicCategories": [
+                    "https://en.wikipedia.org/wiki/Basketball",
+                    "https://en.wikipedia.org/wiki/Sport"
+                ]
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "q0bTLYYMe2gwRII-ttHwRFHbBnk",
+            "id": "yeO5R4tKR5o",
+            "statistics": {
+                "viewCount": "282131",
+                "likeCount": "4005",
+                "favoriteCount": "0",
+                "commentCount": "402"
+            },
+            "topicDetails": {
+                "topicCategories": [
+                    "https://en.wikipedia.org/wiki/Association_football",
+                    "https://en.wikipedia.org/wiki/Sport"
+                ]
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "xjxYW6bCEJXRL0IIIICAjXO_F-E",
+            "id": "Ym6Y9G-z1bM",
+            "statistics": {
+                "viewCount": "2211330",
+                "likeCount": "42915",
+                "favoriteCount": "0",
+                "commentCount": "2754"
+            },
+            "topicDetails": {
+                "topicCategories": [
+                    "https://en.wikipedia.org/wiki/Sport"
+                ]
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "OcSDey87wcyQvXO1YcdHb04TvaQ",
+            "id": "IfHu8oHRngU",
+            "statistics": {
+                "viewCount": "435347",
+                "likeCount": "5468",
+                "favoriteCount": "0",
+                "commentCount": "508"
+            },
+            "topicDetails": {
+                "topicCategories": [
+                    "https://en.wikipedia.org/wiki/Association_football",
+                    "https://en.wikipedia.org/wiki/Sport"
+                ]
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "BnAnQQLCxdvst_nNfg1PGTAt5Gg",
+            "id": "XFwNoeQg6Hs",
+            "statistics": {
+                "viewCount": "1032128",
+                "likeCount": "70334",
+                "favoriteCount": "0",
+                "commentCount": "570"
+            },
+            "topicDetails": {
+                "topicCategories": [
+                    "https://en.wikipedia.org/wiki/Basketball",
+                    "https://en.wikipedia.org/wiki/Sport"
+                ]
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "AQYbIkWA4wR_ayv6Ywgod8-lzp4",
+            "id": "_7N0Vmr4lz4",
+            "statistics": {
+                "viewCount": "1124556",
+                "likeCount": "8663",
+                "favoriteCount": "0",
+                "commentCount": "771"
+            },
+            "topicDetails": {
+                "topicCategories": [
+                    "https://en.wikipedia.org/wiki/Basketball",
+                    "https://en.wikipedia.org/wiki/Sport"
+                ]
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "6_Q1EPSirUT954MROENUUyMK8m0",
+            "id": "_bnR6ScTI0s",
+            "statistics": {
+                "viewCount": "351328",
+                "likeCount": "6323",
+                "favoriteCount": "0",
+                "commentCount": "145"
+            },
+            "topicDetails": {
+                "topicCategories": [
+                    "https://en.wikipedia.org/wiki/American_football",
+                    "https://en.wikipedia.org/wiki/Sport"
+                ]
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "TdocrTlPWE0OvsdXCV1VSCFUKh0",
+            "id": "yC9UpjWWXl8",
+            "statistics": {
+                "viewCount": "582191",
+                "likeCount": "6428",
+                "favoriteCount": "0",
+                "commentCount": "663"
+            },
+            "topicDetails": {
+                "topicCategories": [
+                    "https://en.wikipedia.org/wiki/Association_football",
+                    "https://en.wikipedia.org/wiki/Sport"
+                ]
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "r1dgOW9bfVNoUGIrdyzbTujX-TU",
+            "id": "IMUoBhT2ac4",
+            "statistics": {
+                "viewCount": "471885",
+                "likeCount": "4155",
+                "favoriteCount": "0",
+                "commentCount": "1420"
+            },
+            "topicDetails": {
+                "topicCategories": [
+                    "https://en.wikipedia.org/wiki/American_football",
+                    "https://en.wikipedia.org/wiki/Sport"
+                ]
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "5rWtSBaFtsOeC6bZzY--fF83ULc",
+            "id": "ZW2U1eY-o0U",
+            "statistics": {
+                "viewCount": "946408",
+                "likeCount": "8280",
+                "favoriteCount": "0",
+                "commentCount": "2008"
+            },
+            "topicDetails": {
+                "topicCategories": [
+                    "https://en.wikipedia.org/wiki/Association_football",
+                    "https://en.wikipedia.org/wiki/Sport"
+                ]
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "kUj5qTReztUuQ6MVhLLkYH2Yr6U",
+            "id": "ovHam252Owk",
+            "statistics": {
+                "viewCount": "261504",
+                "likeCount": "4517",
+                "favoriteCount": "0",
+                "commentCount": "887"
+            },
+            "topicDetails": {
+                "topicCategories": [
+                    "https://en.wikipedia.org/wiki/American_football",
+                    "https://en.wikipedia.org/wiki/Sport"
+                ]
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "cWwa53x20ZEP7akNelQZ37JImIU",
+            "id": "R46fF5vE3nI",
+            "statistics": {
+                "viewCount": "158545",
+                "likeCount": "1326",
+                "favoriteCount": "0",
+                "commentCount": "247"
+            },
+            "topicDetails": {
+                "topicCategories": [
+                    "https://en.wikipedia.org/wiki/Association_football",
+                    "https://en.wikipedia.org/wiki/Sport"
+                ]
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "Po0YLKK0gfrW_pc88Bk60MVN9EY",
+            "id": "xYsSuILyE7U",
+            "statistics": {
+                "viewCount": "726846",
+                "likeCount": "19204",
+                "favoriteCount": "0",
+                "commentCount": "1379"
+            },
+            "topicDetails": {
+                "topicCategories": [
+                    "https://en.wikipedia.org/wiki/Basketball",
+                    "https://en.wikipedia.org/wiki/Hip_hop_music",
+                    "https://en.wikipedia.org/wiki/Sport"
+                ]
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "3JILMgvs3fQ1vKtFYK-3Jxde0hM",
+            "id": "dSWkT91inb4",
+            "statistics": {
+                "viewCount": "1204928",
+                "likeCount": "57491",
+                "favoriteCount": "0",
+                "commentCount": "907"
+            },
+            "topicDetails": {
+                "topicCategories": [
+                    "https://en.wikipedia.org/wiki/Basketball",
+                    "https://en.wikipedia.org/wiki/Sport"
+                ]
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "5UB2xGnYdaXA7AkaQrf_OEmJaso",
+            "id": "v_YLK2VcNGc",
+            "statistics": {
+                "viewCount": "712978",
+                "likeCount": "31123",
+                "favoriteCount": "0",
+                "commentCount": "6089"
+            },
+            "topicDetails": {
+                "topicCategories": [
+                    "https://en.wikipedia.org/wiki/Basketball",
+                    "https://en.wikipedia.org/wiki/Hip_hop_music",
+                    "https://en.wikipedia.org/wiki/Sport"
+                ]
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "VjwdkWlHfgvg1JdiKdjdF7w3uGU",
+            "id": "yCTPgNYSWUc",
+            "statistics": {
+                "viewCount": "1346978",
+                "likeCount": "40155",
+                "favoriteCount": "0",
+                "commentCount": "8635"
+            },
+            "topicDetails": {
+                "topicCategories": [
+                    "https://en.wikipedia.org/wiki/Sport"
+                ]
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "tb_X5ppMdwn_hwDczp4TooQv9gc",
+            "id": "Dpbh-gX70ow",
+            "statistics": {
+                "viewCount": "1924286",
+                "likeCount": "20107",
+                "favoriteCount": "0",
+                "commentCount": "2345"
+            },
+            "topicDetails": {
+                "topicCategories": [
+                    "https://en.wikipedia.org/wiki/Basketball",
+                    "https://en.wikipedia.org/wiki/Sport"
+                ]
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "I6FCQfFOvAi8e4Lv4Rf37YSyTNw",
+            "id": "vDqlhp2TfYE",
+            "statistics": {
+                "viewCount": "1034131",
+                "likeCount": "54973",
+                "favoriteCount": "0",
+                "commentCount": "2599"
+            },
+            "topicDetails": {
+                "topicCategories": [
+                    "https://en.wikipedia.org/wiki/Basketball",
+                    "https://en.wikipedia.org/wiki/Sport"
+                ]
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "pe3lcJGNYi2Y0SsNlg8UbxYpk8k",
+            "id": "WGShwCc713c",
+            "statistics": {
+                "viewCount": "1835446",
+                "likeCount": "176049",
+                "favoriteCount": "0",
+                "commentCount": "762"
+            },
+            "topicDetails": {
+                "topicCategories": [
+                    "https://en.wikipedia.org/wiki/Sport"
+                ]
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "cavuxZQt_CyVssg5BlO785IwaiY",
+            "id": "Bb7pphWltLI",
+            "statistics": {
+                "viewCount": "7825753",
+                "likeCount": "187411",
+                "favoriteCount": "0",
+                "commentCount": "6008"
+            },
+            "topicDetails": {
+                "topicCategories": [
+                    "https://en.wikipedia.org/wiki/Association_football",
+                    "https://en.wikipedia.org/wiki/Sport"
+                ]
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "ztIpro_SEmIko45o0rg-6iUlC6I",
+            "id": "XaiDtaXxX_Q",
+            "statistics": {
+                "viewCount": "725660",
+                "likeCount": "14420",
+                "favoriteCount": "0",
+                "commentCount": "2096"
+            },
+            "topicDetails": {
+                "topicCategories": [
+                    "https://en.wikipedia.org/wiki/Mixed_martial_arts",
+                    "https://en.wikipedia.org/wiki/Sport"
+                ]
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "Uk__e_UMrZLxSTOUyS4Gn1lI0GA",
+            "id": "u_BxkCDxls4",
+            "statistics": {
+                "viewCount": "476796",
+                "likeCount": "17762",
+                "favoriteCount": "0",
+                "commentCount": "1223"
+            },
+            "topicDetails": {
+                "topicCategories": [
+                    "https://en.wikipedia.org/wiki/Basketball",
+                    "https://en.wikipedia.org/wiki/Sport"
+                ]
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "jOejBovxT9W2FZK5hVYWNmJCdRc",
+            "id": "gXLObihmWUM",
+            "statistics": {
+                "viewCount": "826119",
+                "likeCount": "9037",
+                "favoriteCount": "0",
+                "commentCount": "2297"
+            },
+            "topicDetails": {
+                "topicCategories": [
+                    "https://en.wikipedia.org/wiki/Basketball",
+                    "https://en.wikipedia.org/wiki/Sport"
+                ]
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "ST1MugemXav3aQLA45WyIIR45Uk",
+            "id": "0nOj6HE7sE8",
+            "statistics": {
+                "viewCount": "415194",
+                "likeCount": "22985",
+                "favoriteCount": "0",
+                "commentCount": "386"
+            },
+            "topicDetails": {
+                "topicCategories": [
+                    "https://en.wikipedia.org/wiki/American_football",
+                    "https://en.wikipedia.org/wiki/Sport"
+                ]
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "3gTmR8WqLu0hHLnb0sIJCLvB3rw",
+            "id": "mwlepyAdehA",
+            "statistics": {
+                "viewCount": "233185",
+                "likeCount": "2800",
+                "favoriteCount": "0",
+                "commentCount": "632"
+            },
+            "topicDetails": {
+                "topicCategories": [
+                    "https://en.wikipedia.org/wiki/Motorsport",
+                    "https://en.wikipedia.org/wiki/Sport"
+                ]
+            }
+        }
+    ],
+    "nextPageToken": "CB4QAA",
+    "pageInfo": {
+        "totalResults": 122,
+        "resultsPerPage": 30
+    }
+}

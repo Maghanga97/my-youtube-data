@@ -1,0 +1,523 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "xOP0zduk33fI90DJIiByKKVW9-g",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "iQt9SLOYmKUZWI5bo5V8h9R6mNs",
+            "id": "UeWpN335lUw",
+            "statistics": {
+                "viewCount": "3343558",
+                "likeCount": "116461",
+                "favoriteCount": "0",
+                "commentCount": "4706"
+            },
+            "topicDetails": {
+                "topicCategories": [
+                    "https://en.wikipedia.org/wiki/Lifestyle_(sociology)",
+                    "https://en.wikipedia.org/wiki/Technology"
+                ]
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "Yi_-G9SfooN66G2HITzDzNSTODk",
+            "id": "5tu6cRgYxSM",
+            "statistics": {
+                "viewCount": "2072092",
+                "likeCount": "262939",
+                "favoriteCount": "0",
+                "commentCount": "925"
+            },
+            "topicDetails": {
+                "topicCategories": [
+                    "https://en.wikipedia.org/wiki/Lifestyle_(sociology)",
+                    "https://en.wikipedia.org/wiki/Technology"
+                ]
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "kdmReYow5ji3F0zuEWnDbFyq6jk",
+            "id": "7oDrTMP0BNY",
+            "statistics": {
+                "viewCount": "1506106",
+                "likeCount": "139572",
+                "favoriteCount": "0",
+                "commentCount": "8912"
+            },
+            "topicDetails": {
+                "topicCategories": [
+                    "https://en.wikipedia.org/wiki/Lifestyle_(sociology)",
+                    "https://en.wikipedia.org/wiki/Technology"
+                ]
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "scQWukhG9S8ttNzRTIaydSv6X6w",
+            "id": "XK1as1UoIN4",
+            "statistics": {
+                "viewCount": "938778",
+                "likeCount": "125729",
+                "favoriteCount": "0",
+                "commentCount": "1941"
+            },
+            "topicDetails": {
+                "topicCategories": [
+                    "https://en.wikipedia.org/wiki/Lifestyle_(sociology)",
+                    "https://en.wikipedia.org/wiki/Technology"
+                ]
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "_GdsN1AgJVPyLA8VZHOub0m0ohc",
+            "id": "XaQ-zne5lBs",
+            "statistics": {
+                "viewCount": "2319389",
+                "likeCount": "111393",
+                "favoriteCount": "0",
+                "commentCount": "2730"
+            },
+            "topicDetails": {
+                "topicCategories": [
+                    "https://en.wikipedia.org/wiki/Lifestyle_(sociology)",
+                    "https://en.wikipedia.org/wiki/Technology"
+                ]
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "U9sp_yfzoX8x4j9xGcQuO4UY6qU",
+            "id": "7v3kRLjN9Yo",
+            "statistics": {
+                "viewCount": "1452587",
+                "likeCount": "97176",
+                "favoriteCount": "0",
+                "commentCount": "3134"
+            },
+            "topicDetails": {
+                "topicCategories": [
+                    "https://en.wikipedia.org/wiki/Lifestyle_(sociology)",
+                    "https://en.wikipedia.org/wiki/Technology"
+                ]
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "KH1RGG16pSdKu8SdqDpS91bRWr8",
+            "id": "OjKyA284ngI",
+            "statistics": {
+                "viewCount": "4966158",
+                "likeCount": "259535",
+                "favoriteCount": "0",
+                "commentCount": "10811"
+            },
+            "topicDetails": {
+                "topicCategories": [
+                    "https://en.wikipedia.org/wiki/Lifestyle_(sociology)",
+                    "https://en.wikipedia.org/wiki/Technology"
+                ]
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "39zXRF2yfFI-mc6X8FnCqXLKP18",
+            "id": "Hr8Ln26klvo",
+            "statistics": {
+                "viewCount": "1274661",
+                "likeCount": "113486",
+                "favoriteCount": "0",
+                "commentCount": "231442"
+            },
+            "topicDetails": {
+                "topicCategories": [
+                    "https://en.wikipedia.org/wiki/Lifestyle_(sociology)",
+                    "https://en.wikipedia.org/wiki/Technology"
+                ]
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "wJ6olaqot-CGcPpg6fc86Y2LbL8",
+            "id": "dG6tvILPpNQ",
+            "statistics": {
+                "viewCount": "1297247",
+                "likeCount": "60500",
+                "favoriteCount": "0",
+                "commentCount": "894"
+            },
+            "topicDetails": {
+                "topicCategories": [
+                    "https://en.wikipedia.org/wiki/Lifestyle_(sociology)",
+                    "https://en.wikipedia.org/wiki/Technology"
+                ]
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "9bPBBgYhm2NB_zFXzi-JZI-d4DA",
+            "id": "hBYbodmCBUQ",
+            "statistics": {
+                "viewCount": "1444089",
+                "likeCount": "69717",
+                "favoriteCount": "0",
+                "commentCount": "5135"
+            },
+            "topicDetails": {
+                "topicCategories": [
+                    "https://en.wikipedia.org/wiki/Lifestyle_(sociology)",
+                    "https://en.wikipedia.org/wiki/Technology"
+                ]
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "Y6NHlzfNKn-bfv3fnU9ug2jLt7U",
+            "id": "BfXrBPU48ko",
+            "statistics": {
+                "viewCount": "1063652",
+                "likeCount": "105042",
+                "favoriteCount": "0",
+                "commentCount": "3088"
+            },
+            "topicDetails": {
+                "topicCategories": [
+                    "https://en.wikipedia.org/wiki/Lifestyle_(sociology)",
+                    "https://en.wikipedia.org/wiki/Technology"
+                ]
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "lgG36lcWFcnIeDmuEgtbt3RB6FY",
+            "id": "e58uRRwarKY",
+            "statistics": {
+                "viewCount": "5357048",
+                "likeCount": "454159",
+                "favoriteCount": "0",
+                "commentCount": "14810"
+            },
+            "topicDetails": {
+                "topicCategories": [
+                    "https://en.wikipedia.org/wiki/Lifestyle_(sociology)",
+                    "https://en.wikipedia.org/wiki/Technology"
+                ]
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "pZmaUHqa164Zk4aN2W-YmXeivY8",
+            "id": "SJkwUuDL0F4",
+            "statistics": {
+                "viewCount": "4453734",
+                "likeCount": "458757",
+                "favoriteCount": "0",
+                "commentCount": "1692"
+            },
+            "topicDetails": {
+                "topicCategories": [
+                    "https://en.wikipedia.org/wiki/Lifestyle_(sociology)",
+                    "https://en.wikipedia.org/wiki/Technology"
+                ]
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "wOdLGYbgpfcBCSo1HX7ONhu8hrs",
+            "id": "wvhP1al3Ur4",
+            "statistics": {
+                "viewCount": "2396097",
+                "likeCount": "106870",
+                "favoriteCount": "0",
+                "commentCount": "6059"
+            },
+            "topicDetails": {
+                "topicCategories": [
+                    "https://en.wikipedia.org/wiki/Lifestyle_(sociology)",
+                    "https://en.wikipedia.org/wiki/Technology"
+                ]
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "Ru0P7Klm6oL3s5iJpgPzj0HQ_oI",
+            "id": "weuFg58zdSY",
+            "statistics": {
+                "viewCount": "1270886",
+                "likeCount": "88611",
+                "favoriteCount": "0",
+                "commentCount": "2754"
+            },
+            "topicDetails": {
+                "topicCategories": [
+                    "https://en.wikipedia.org/wiki/Lifestyle_(sociology)",
+                    "https://en.wikipedia.org/wiki/Technology"
+                ]
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "WmFSwXRF3QCYqx_C-2BmBdYmsbI",
+            "id": "McmCBFFI3MM",
+            "statistics": {
+                "viewCount": "937306",
+                "likeCount": "79354",
+                "favoriteCount": "0",
+                "commentCount": "862"
+            },
+            "topicDetails": {
+                "topicCategories": [
+                    "https://en.wikipedia.org/wiki/Lifestyle_(sociology)",
+                    "https://en.wikipedia.org/wiki/Technology"
+                ]
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "hrjZJYKihCBq9X8z5kgCYe7MZnM",
+            "id": "HQKy1KJpSVc",
+            "statistics": {
+                "viewCount": "798826",
+                "likeCount": "40531",
+                "favoriteCount": "0",
+                "commentCount": "2838"
+            },
+            "topicDetails": {
+                "topicCategories": [
+                    "https://en.wikipedia.org/wiki/Lifestyle_(sociology)",
+                    "https://en.wikipedia.org/wiki/Technology"
+                ]
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "sP5f4oSHH4UfXmGH6Qh2znAIJcY",
+            "id": "7cncryTNV3g",
+            "statistics": {
+                "viewCount": "5336988",
+                "likeCount": "476161",
+                "favoriteCount": "0",
+                "commentCount": "2015"
+            },
+            "topicDetails": {
+                "topicCategories": [
+                    "https://en.wikipedia.org/wiki/Lifestyle_(sociology)",
+                    "https://en.wikipedia.org/wiki/Technology"
+                ]
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "x8WzF53F_o4PaJduHbW9g5mqEVw",
+            "id": "bCevmmgJzQc",
+            "statistics": {
+                "viewCount": "1514156",
+                "likeCount": "106621",
+                "favoriteCount": "0",
+                "commentCount": "8193"
+            },
+            "topicDetails": {
+                "topicCategories": [
+                    "https://en.wikipedia.org/wiki/Lifestyle_(sociology)",
+                    "https://en.wikipedia.org/wiki/Technology"
+                ]
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "ttwdYWJJi1VTdx0ONByWECWsMp0",
+            "id": "bFAdbLjMDJM",
+            "statistics": {
+                "viewCount": "2032164",
+                "likeCount": "213790",
+                "favoriteCount": "0",
+                "commentCount": "3923"
+            },
+            "topicDetails": {
+                "topicCategories": [
+                    "https://en.wikipedia.org/wiki/Lifestyle_(sociology)",
+                    "https://en.wikipedia.org/wiki/Technology"
+                ]
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "2l1GKhAOu9A1QUKxhr4U74QvcIY",
+            "id": "i-k_yhbstaY",
+            "statistics": {
+                "viewCount": "3310349",
+                "likeCount": "63053",
+                "favoriteCount": "0",
+                "commentCount": "9627"
+            },
+            "topicDetails": {
+                "topicCategories": [
+                    "https://en.wikipedia.org/wiki/Lifestyle_(sociology)",
+                    "https://en.wikipedia.org/wiki/Technology"
+                ]
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "kphUTG3aAI58EsfXZE9LXnbGeCA",
+            "id": "VJdWNefdPl8",
+            "statistics": {
+                "viewCount": "6439111",
+                "likeCount": "488978",
+                "favoriteCount": "0",
+                "commentCount": "652"
+            },
+            "topicDetails": {
+                "topicCategories": [
+                    "https://en.wikipedia.org/wiki/Hobby",
+                    "https://en.wikipedia.org/wiki/Lifestyle_(sociology)",
+                    "https://en.wikipedia.org/wiki/Technology"
+                ]
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "R3O5DqZ6vhkyb4FhEtx4D-ti4aU",
+            "id": "9LVFVTMleio",
+            "statistics": {
+                "viewCount": "517619",
+                "likeCount": "21769",
+                "favoriteCount": "0",
+                "commentCount": "2431"
+            },
+            "topicDetails": {
+                "topicCategories": [
+                    "https://en.wikipedia.org/wiki/Hobby",
+                    "https://en.wikipedia.org/wiki/Lifestyle_(sociology)",
+                    "https://en.wikipedia.org/wiki/Technology"
+                ]
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "5aucj3Gk5rrofRYnLHWhqPQz7PQ",
+            "id": "Z-gVzBW4dJE",
+            "statistics": {
+                "viewCount": "290543",
+                "likeCount": "15352",
+                "favoriteCount": "0",
+                "commentCount": "796"
+            },
+            "topicDetails": {
+                "topicCategories": [
+                    "https://en.wikipedia.org/wiki/Lifestyle_(sociology)",
+                    "https://en.wikipedia.org/wiki/Technology"
+                ]
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "IbSTCzO7ksAk6doUG5PlzE4va6Y",
+            "id": "t5NXYhKiT98",
+            "statistics": {
+                "viewCount": "973730",
+                "likeCount": "101015",
+                "favoriteCount": "0",
+                "commentCount": "4487"
+            },
+            "topicDetails": {
+                "topicCategories": [
+                    "https://en.wikipedia.org/wiki/Lifestyle_(sociology)",
+                    "https://en.wikipedia.org/wiki/Technology"
+                ]
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "nmVbG8quolDiPRRjVndUkh0BR_0",
+            "id": "xB2DGbTl18M",
+            "statistics": {
+                "viewCount": "243119",
+                "likeCount": "26052",
+                "favoriteCount": "0",
+                "commentCount": "1192"
+            },
+            "topicDetails": {
+                "topicCategories": [
+                    "https://en.wikipedia.org/wiki/Lifestyle_(sociology)",
+                    "https://en.wikipedia.org/wiki/Technology"
+                ]
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "xa5hKSk8YImalNRhu86CgkVWLXg",
+            "id": "ayp8YFXOZNY",
+            "statistics": {
+                "viewCount": "195836",
+                "likeCount": "7576",
+                "favoriteCount": "0",
+                "commentCount": "515"
+            },
+            "topicDetails": {
+                "topicCategories": [
+                    "https://en.wikipedia.org/wiki/Lifestyle_(sociology)",
+                    "https://en.wikipedia.org/wiki/Technology"
+                ]
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "ARz4lh4P-MgL4tt-upsh_Bem3QI",
+            "id": "h-BnpxbohWI",
+            "statistics": {
+                "viewCount": "2511812",
+                "likeCount": "205820",
+                "favoriteCount": "0",
+                "commentCount": "777"
+            },
+            "topicDetails": {
+                "topicCategories": [
+                    "https://en.wikipedia.org/wiki/Lifestyle_(sociology)",
+                    "https://en.wikipedia.org/wiki/Technology"
+                ]
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "DFRpXaiz1NXY44IrQHOG8xv4His",
+            "id": "p7i8FK96yWo",
+            "statistics": {
+                "viewCount": "2533734",
+                "likeCount": "79441",
+                "favoriteCount": "0",
+                "commentCount": "3414"
+            },
+            "topicDetails": {
+                "topicCategories": [
+                    "https://en.wikipedia.org/wiki/Lifestyle_(sociology)",
+                    "https://en.wikipedia.org/wiki/Technology"
+                ]
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "EhfqmwNxgiOlZo2iEN9zaXHy6M8",
+            "id": "xXuwLOlkkS0",
+            "statistics": {
+                "viewCount": "2431154",
+                "likeCount": "103275",
+                "favoriteCount": "0",
+                "commentCount": "282"
+            },
+            "topicDetails": {
+                "topicCategories": [
+                    "https://en.wikipedia.org/wiki/Lifestyle_(sociology)",
+                    "https://en.wikipedia.org/wiki/Technology"
+                ]
+            }
+        }
+    ],
+    "nextPageToken": "CB4QAA",
+    "pageInfo": {
+        "totalResults": 200,
+        "resultsPerPage": 30
+    }
+}

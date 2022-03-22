@@ -1,0 +1,496 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "kZNivysJVR8PwUymm1VMhyMywVQ",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "ijS4VPQLavPmtmg8G0-yNSuY9P0",
+            "id": "DYduaxXr9KM",
+            "statistics": {
+                "viewCount": "7121648",
+                "likeCount": "567619",
+                "favoriteCount": "0",
+                "commentCount": "2241"
+            },
+            "topicDetails": {
+                "topicCategories": [
+                    "https://en.wikipedia.org/wiki/Lifestyle_(sociology)",
+                    "https://en.wikipedia.org/wiki/Pet"
+                ]
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "d0zN4JbNHkZdADNgG33T8bsBhyU",
+            "id": "dEW7y7gM6hw",
+            "statistics": {
+                "viewCount": "1995774",
+                "likeCount": "147840",
+                "favoriteCount": "0",
+                "commentCount": "4920"
+            },
+            "topicDetails": {
+                "topicCategories": [
+                    "https://en.wikipedia.org/wiki/Lifestyle_(sociology)"
+                ]
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "7zCf_KoZ0UawhwVxKcKu74sAb6g",
+            "id": "9WM0GG27oo8",
+            "statistics": {
+                "viewCount": "1065808",
+                "likeCount": "3936",
+                "favoriteCount": "0",
+                "commentCount": "0"
+            },
+            "topicDetails": {
+                "topicCategories": [
+                    "https://en.wikipedia.org/wiki/Lifestyle_(sociology)"
+                ]
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "3wczaqKtt134LBFh7uGe3vs2M1Q",
+            "id": "oOWlz6vqsuw",
+            "statistics": {
+                "viewCount": "1912861",
+                "likeCount": "32147",
+                "favoriteCount": "0",
+                "commentCount": "4237"
+            },
+            "topicDetails": {
+                "topicCategories": [
+                    "https://en.wikipedia.org/wiki/Lifestyle_(sociology)",
+                    "https://en.wikipedia.org/wiki/Pet"
+                ]
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "Mk7Sj7mb2zVz7cTlRSGGwuuzFPI",
+            "id": "-Da5t-RtKY8",
+            "statistics": {
+                "viewCount": "594870",
+                "likeCount": "20449",
+                "favoriteCount": "0",
+                "commentCount": "782"
+            },
+            "topicDetails": {
+                "topicCategories": [
+                    "https://en.wikipedia.org/wiki/Lifestyle_(sociology)",
+                    "https://en.wikipedia.org/wiki/Pet"
+                ]
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "URX97ofRZx8_VWbqI2qDEJAJJWY",
+            "id": "Rm6kgM39yZ8",
+            "statistics": {
+                "viewCount": "290223",
+                "likeCount": "7248",
+                "favoriteCount": "0",
+                "commentCount": "571"
+            },
+            "topicDetails": {
+                "topicCategories": [
+                    "https://en.wikipedia.org/wiki/Lifestyle_(sociology)"
+                ]
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "45kQFGhoVUy6B404Z_wGfQVCceg",
+            "id": "aRr9faR5TMg",
+            "statistics": {
+                "viewCount": "454424",
+                "likeCount": "35421",
+                "favoriteCount": "0",
+                "commentCount": "2325"
+            },
+            "topicDetails": {
+                "topicCategories": [
+                    "https://en.wikipedia.org/wiki/Lifestyle_(sociology)"
+                ]
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "kWQyapqVR9TGuulihW36UU0TTIY",
+            "id": "txhpx2jQrPA",
+            "statistics": {
+                "viewCount": "2095265",
+                "likeCount": "128029",
+                "favoriteCount": "0",
+                "commentCount": "1278"
+            },
+            "topicDetails": {
+                "topicCategories": [
+                    "https://en.wikipedia.org/wiki/Entertainment"
+                ]
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "jRgsSwpyqmWsF3MsuUSYjFiIiQo",
+            "id": "DEpzOUUxdgQ",
+            "statistics": {
+                "viewCount": "331601",
+                "likeCount": "3940",
+                "favoriteCount": "0",
+                "commentCount": "0"
+            },
+            "topicDetails": {
+                "topicCategories": [
+                    "https://en.wikipedia.org/wiki/Lifestyle_(sociology)"
+                ]
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "x73bgX7y21GL2We13BwKOA2vEIA",
+            "id": "syjYmM_xsnI",
+            "statistics": {
+                "viewCount": "1880036",
+                "likeCount": "205108",
+                "favoriteCount": "0",
+                "commentCount": "3757"
+            },
+            "topicDetails": {
+                "topicCategories": [
+                    "https://en.wikipedia.org/wiki/Lifestyle_(sociology)",
+                    "https://en.wikipedia.org/wiki/Pet"
+                ]
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "wYKj2S7Salwy-8pPsz_93tQ0cLs",
+            "id": "vTDkNw9rbOE",
+            "statistics": {
+                "viewCount": "599848",
+                "likeCount": "45398",
+                "favoriteCount": "0",
+                "commentCount": "1275"
+            },
+            "topicDetails": {
+                "topicCategories": [
+                    "https://en.wikipedia.org/wiki/Lifestyle_(sociology)"
+                ]
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "DRZDSM4O1tTJInh7ERoilqG3LIY",
+            "id": "uiHlmppdbbg",
+            "statistics": {
+                "viewCount": "1158561",
+                "likeCount": "90554",
+                "favoriteCount": "0",
+                "commentCount": "3757"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "n8bRe6fs6jTaomzua2KNw0AuPfk",
+            "id": "W6BkLRHDQPw",
+            "statistics": {
+                "viewCount": "585099",
+                "likeCount": "13148",
+                "favoriteCount": "0",
+                "commentCount": "2214"
+            },
+            "topicDetails": {
+                "topicCategories": [
+                    "https://en.wikipedia.org/wiki/Society"
+                ]
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "YRDusOdnurKvK5fuSjfzvFbxfmo",
+            "id": "Wo4Ka9oE9uc",
+            "statistics": {
+                "viewCount": "88532",
+                "likeCount": "3141",
+                "favoriteCount": "0",
+                "commentCount": "151"
+            },
+            "topicDetails": {
+                "topicCategories": [
+                    "https://en.wikipedia.org/wiki/Lifestyle_(sociology)"
+                ]
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "BZUnGNgK9doB6nOFBlDtFRUFtxM",
+            "id": "eWh6MOaPSII",
+            "statistics": {
+                "viewCount": "12122931",
+                "likeCount": "325420",
+                "favoriteCount": "0",
+                "commentCount": "9396"
+            },
+            "topicDetails": {
+                "topicCategories": [
+                    "https://en.wikipedia.org/wiki/Lifestyle_(sociology)"
+                ]
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "FPIa4FPPRmJlj0wktwWnhGgim7w",
+            "id": "7F1Xz20B4vU",
+            "statistics": {
+                "viewCount": "573514",
+                "likeCount": "50138",
+                "favoriteCount": "0",
+                "commentCount": "1704"
+            },
+            "topicDetails": {
+                "topicCategories": [
+                    "https://en.wikipedia.org/wiki/Lifestyle_(sociology)",
+                    "https://en.wikipedia.org/wiki/Pet"
+                ]
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "xZ6NbjOPPI5ikWDhZPwc_q6ClJU",
+            "id": "7VVdGxud1Ac",
+            "statistics": {
+                "viewCount": "177218",
+                "likeCount": "7435",
+                "favoriteCount": "0",
+                "commentCount": "381"
+            },
+            "topicDetails": {
+                "topicCategories": [
+                    "https://en.wikipedia.org/wiki/Lifestyle_(sociology)"
+                ]
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "la4cL6fG_7iYC4BF50_nIDMzF1Y",
+            "id": "W4R4bZkuUvE",
+            "statistics": {
+                "viewCount": "855376",
+                "likeCount": "13542",
+                "favoriteCount": "0",
+                "commentCount": "504"
+            },
+            "topicDetails": {
+                "topicCategories": [
+                    "https://en.wikipedia.org/wiki/Lifestyle_(sociology)",
+                    "https://en.wikipedia.org/wiki/Pet"
+                ]
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "aySDt-H8v1t1l7C7ehSh2cwyS50",
+            "id": "1viJbJby75E",
+            "statistics": {
+                "viewCount": "84737",
+                "likeCount": "2042",
+                "favoriteCount": "0",
+                "commentCount": "670"
+            },
+            "topicDetails": {
+                "topicCategories": [
+                    "https://en.wikipedia.org/wiki/Society"
+                ]
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "wCgISmSID7oyqwSLKiobCWSeg0Y",
+            "id": "39K_yEtk4Ac",
+            "statistics": {
+                "viewCount": "2146272",
+                "likeCount": "112208",
+                "favoriteCount": "0",
+                "commentCount": "461"
+            },
+            "topicDetails": {
+                "topicCategories": [
+                    "https://en.wikipedia.org/wiki/Lifestyle_(sociology)",
+                    "https://en.wikipedia.org/wiki/Pet"
+                ]
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "11R0JohGyqQiLknvJnk3o0nNF-M",
+            "id": "YZQMZB8yFZQ",
+            "statistics": {
+                "viewCount": "288793",
+                "likeCount": "16369",
+                "favoriteCount": "0",
+                "commentCount": "1007"
+            },
+            "topicDetails": {
+                "topicCategories": [
+                    "https://en.wikipedia.org/wiki/Lifestyle_(sociology)"
+                ]
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "WBfi2NFqc577y3yHMEhB2_2diYA",
+            "id": "xMjxOTO_PBs",
+            "statistics": {
+                "viewCount": "281429",
+                "likeCount": "2878",
+                "favoriteCount": "0",
+                "commentCount": "113"
+            },
+            "topicDetails": {
+                "topicCategories": [
+                    "https://en.wikipedia.org/wiki/Humour",
+                    "https://en.wikipedia.org/wiki/Lifestyle_(sociology)",
+                    "https://en.wikipedia.org/wiki/Pet"
+                ]
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "eyx58dSoT7sXRzqtysD0tzNG8XU",
+            "id": "IlqdNblc07I",
+            "statistics": {
+                "viewCount": "788805",
+                "likeCount": "75201",
+                "favoriteCount": "0",
+                "commentCount": "645"
+            },
+            "topicDetails": {
+                "topicCategories": [
+                    "https://en.wikipedia.org/wiki/Lifestyle_(sociology)",
+                    "https://en.wikipedia.org/wiki/Pet"
+                ]
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "Pe4RWEhrIW1hwLy-aZpVEOWluH8",
+            "id": "jfYK0awKqLY",
+            "statistics": {
+                "viewCount": "3865333",
+                "likeCount": "48730",
+                "favoriteCount": "0",
+                "commentCount": "958"
+            },
+            "topicDetails": {
+                "topicCategories": [
+                    "https://en.wikipedia.org/wiki/Lifestyle_(sociology)",
+                    "https://en.wikipedia.org/wiki/Pet"
+                ]
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "sSavbuOd39o6X9c4rLgqp9OZasQ",
+            "id": "7coantvnLCE",
+            "statistics": {
+                "viewCount": "108865",
+                "likeCount": "12517",
+                "favoriteCount": "0",
+                "commentCount": "1191"
+            },
+            "topicDetails": {
+                "topicCategories": [
+                    "https://en.wikipedia.org/wiki/Lifestyle_(sociology)"
+                ]
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "uEgIKsK2J6PDoUlRUL-QZ7eiXPA",
+            "id": "ZHl8XzFmFSQ",
+            "statistics": {
+                "viewCount": "517690",
+                "likeCount": "53974",
+                "favoriteCount": "0",
+                "commentCount": "883"
+            },
+            "topicDetails": {
+                "topicCategories": [
+                    "https://en.wikipedia.org/wiki/Lifestyle_(sociology)",
+                    "https://en.wikipedia.org/wiki/Pet"
+                ]
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "3E72eraysZsVzfn8QJChKXErg10",
+            "id": "voyMfmbWPOc",
+            "statistics": {
+                "viewCount": "779903",
+                "likeCount": "111524",
+                "favoriteCount": "0",
+                "commentCount": "620"
+            },
+            "topicDetails": {
+                "topicCategories": [
+                    "https://en.wikipedia.org/wiki/Lifestyle_(sociology)",
+                    "https://en.wikipedia.org/wiki/Pet"
+                ]
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "K7kq4VymE7mFodQ9XzMKOBtFEOc",
+            "id": "LXW2xyUGiCA",
+            "statistics": {
+                "viewCount": "7838213",
+                "likeCount": "210891",
+                "favoriteCount": "0",
+                "commentCount": "7041"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "KX651pGwTEL0_Cc05lK6biaebQk",
+            "id": "e7cq8VmvG9E",
+            "statistics": {
+                "viewCount": "331583",
+                "likeCount": "32829",
+                "favoriteCount": "0",
+                "commentCount": "454"
+            },
+            "topicDetails": {
+                "topicCategories": [
+                    "https://en.wikipedia.org/wiki/Lifestyle_(sociology)",
+                    "https://en.wikipedia.org/wiki/Pet"
+                ]
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "4MJqPoSNLHN24rWwOsy9_7kyn0A",
+            "id": "exK5smw3rmU",
+            "statistics": {
+                "viewCount": "10493735",
+                "likeCount": "807166",
+                "favoriteCount": "0",
+                "commentCount": "1690"
+            },
+            "topicDetails": {
+                "topicCategories": [
+                    "https://en.wikipedia.org/wiki/Lifestyle_(sociology)",
+                    "https://en.wikipedia.org/wiki/Pet"
+                ]
+            }
+        }
+    ],
+    "nextPageToken": "CB4QAA",
+    "pageInfo": {
+        "totalResults": 200,
+        "resultsPerPage": 30
+    }
+}

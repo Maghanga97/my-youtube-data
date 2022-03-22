@@ -1,0 +1,490 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "FtwgH99TvQ8_p6NVRog2w_UtNt8",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "Uaz7nivMpQZUvgpVCJL1rZgeOzE",
+            "id": "NQXaI__97ZQ",
+            "statistics": {
+                "viewCount": "4652580",
+                "likeCount": "30587",
+                "favoriteCount": "0",
+                "commentCount": "779"
+            },
+            "topicDetails": {
+                "topicCategories": [
+                    "https://en.wikipedia.org/wiki/Lifestyle_(sociology)"
+                ]
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "btfttZRG_LaDEmRjr_YPAzF9ciE",
+            "id": "05dcZUK_k7I",
+            "statistics": {
+                "viewCount": "2270399",
+                "likeCount": "6831",
+                "favoriteCount": "0",
+                "commentCount": "0"
+            },
+            "topicDetails": {
+                "topicCategories": [
+                    "https://en.wikipedia.org/wiki/Lifestyle_(sociology)"
+                ]
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "lmpXpXB9fFFliHlypGGC_GMTxHI",
+            "id": "2K-_DeXbyr4",
+            "statistics": {
+                "viewCount": "2900506",
+                "likeCount": "20016",
+                "favoriteCount": "0"
+            },
+            "topicDetails": {
+                "topicCategories": [
+                    "https://en.wikipedia.org/wiki/Lifestyle_(sociology)"
+                ]
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "WU7gbkazFn8dk5u6G9Hl3myJblE",
+            "id": "W0UOj_3XxS4",
+            "statistics": {
+                "viewCount": "2218763",
+                "likeCount": "72617",
+                "favoriteCount": "0",
+                "commentCount": "6452"
+            },
+            "topicDetails": {
+                "topicCategories": [
+                    "https://en.wikipedia.org/wiki/Entertainment",
+                    "https://en.wikipedia.org/wiki/Film"
+                ]
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "JK4A-EJwDm_k6qg6JElDo95sX0M",
+            "id": "vPRgPs--LIU",
+            "statistics": {
+                "viewCount": "750925",
+                "likeCount": "23230",
+                "favoriteCount": "0",
+                "commentCount": "2543"
+            },
+            "topicDetails": {
+                "topicCategories": [
+                    "https://en.wikipedia.org/wiki/Society"
+                ]
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "-UUBNAdQbPOXCOoOBG9aUo6vbd0",
+            "id": "4_V5XPGGeEI",
+            "statistics": {
+                "viewCount": "306936",
+                "likeCount": "34976",
+                "favoriteCount": "0",
+                "commentCount": "319"
+            },
+            "topicDetails": {
+                "topicCategories": [
+                    "https://en.wikipedia.org/wiki/Hobby",
+                    "https://en.wikipedia.org/wiki/Lifestyle_(sociology)"
+                ]
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "A3Cr_jK2VscFzM_hyheUrmtycTg",
+            "id": "PnvPY_d0njs",
+            "statistics": {
+                "viewCount": "1634197",
+                "likeCount": "184437",
+                "favoriteCount": "0",
+                "commentCount": "1697"
+            },
+            "topicDetails": {
+                "topicCategories": [
+                    "https://en.wikipedia.org/wiki/Knowledge"
+                ]
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "B0Q9UEo-w_I5zqdAG8bM1q73oZg",
+            "id": "2wU-WPPezZY",
+            "statistics": {
+                "viewCount": "335262",
+                "likeCount": "4700",
+                "favoriteCount": "0",
+                "commentCount": "341"
+            },
+            "topicDetails": {
+                "topicCategories": [
+                    "https://en.wikipedia.org/wiki/Lifestyle_(sociology)"
+                ]
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "IskgU0yGh9hPdGV47XI1vpVpyH0",
+            "id": "7YOD9drZasM",
+            "statistics": {
+                "viewCount": "1955269",
+                "likeCount": "95671",
+                "favoriteCount": "0",
+                "commentCount": "31573"
+            },
+            "topicDetails": {
+                "topicCategories": [
+                    "https://en.wikipedia.org/wiki/Knowledge"
+                ]
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "5JEBflZlEVSZx9fOSkLsDlTvHnI",
+            "id": "EjyMfJI-6Qs",
+            "statistics": {
+                "viewCount": "267594",
+                "likeCount": "25",
+                "favoriteCount": "0",
+                "commentCount": "0"
+            },
+            "topicDetails": {
+                "topicCategories": [
+                    "https://en.wikipedia.org/wiki/Society"
+                ]
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "JXpJZVZ_68B0IW_G2HaFyKIgnLQ",
+            "id": "cQWlnTyOSig",
+            "statistics": {
+                "viewCount": "713595",
+                "likeCount": "32698",
+                "favoriteCount": "0",
+                "commentCount": "2187"
+            },
+            "topicDetails": {
+                "topicCategories": [
+                    "https://en.wikipedia.org/wiki/Society"
+                ]
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "Ymeo_9zN7iA-8zDfuqrSzUdKX8I",
+            "id": "xEy0l3pVv1E",
+            "statistics": {
+                "viewCount": "6990223",
+                "likeCount": "36830",
+                "favoriteCount": "0",
+                "commentCount": "0"
+            },
+            "topicDetails": {
+                "topicCategories": [
+                    "https://en.wikipedia.org/wiki/Entertainment"
+                ]
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "wm7Ga6AsnY9f4AEHCwZQ4X8Ul3U",
+            "id": "aCb9xkWtaow",
+            "statistics": {
+                "viewCount": "446043",
+                "likeCount": "3038",
+                "favoriteCount": "0",
+                "commentCount": "0"
+            },
+            "topicDetails": {
+                "topicCategories": [
+                    "https://en.wikipedia.org/wiki/Entertainment"
+                ]
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "aDI8hzZbEZmGa6KymIPz6-XGBR0",
+            "id": "fNkRj8wsQbI",
+            "statistics": {
+                "viewCount": "39376",
+                "likeCount": "505",
+                "favoriteCount": "0",
+                "commentCount": "90"
+            },
+            "topicDetails": {
+                "topicCategories": [
+                    "https://en.wikipedia.org/wiki/Politics",
+                    "https://en.wikipedia.org/wiki/Society"
+                ]
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "swY71usTNYnTiaRbNxSzT4bWvkQ",
+            "id": "B6IC9sfn_ZM",
+            "statistics": {
+                "viewCount": "152873",
+                "likeCount": "9660",
+                "favoriteCount": "0",
+                "commentCount": "1184"
+            },
+            "topicDetails": {
+                "topicCategories": [
+                    "https://en.wikipedia.org/wiki/Society"
+                ]
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "HM-RSdVL2kHmRTpwrsM_C3g7zog",
+            "id": "yNmCNeioFf4",
+            "statistics": {
+                "viewCount": "488226",
+                "likeCount": "7546",
+                "favoriteCount": "0",
+                "commentCount": "442"
+            },
+            "topicDetails": {
+                "topicCategories": [
+                    "https://en.wikipedia.org/wiki/Lifestyle_(sociology)",
+                    "https://en.wikipedia.org/wiki/Technology"
+                ]
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "wDjn-aCfLrs6WkLhgs-VK4Dt74o",
+            "id": "JTqOn2ab6bc",
+            "statistics": {
+                "viewCount": "125588",
+                "likeCount": "2724",
+                "favoriteCount": "0"
+            },
+            "topicDetails": {
+                "topicCategories": [
+                    "https://en.wikipedia.org/wiki/Lifestyle_(sociology)"
+                ]
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "PX7vGqZWl32vNsdOEGB2fqtsTBc",
+            "id": "GTSxvm3O3Sk",
+            "statistics": {
+                "viewCount": "35893",
+                "likeCount": "1960",
+                "favoriteCount": "0",
+                "commentCount": "100"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "q7qm3ZWR6LuV8pr0ZjSLhhnxsqQ",
+            "id": "F-yDKeya4SU",
+            "statistics": {
+                "viewCount": "1331596",
+                "likeCount": "57751",
+                "favoriteCount": "0",
+                "commentCount": "12350"
+            },
+            "topicDetails": {
+                "topicCategories": [
+                    "https://en.wikipedia.org/wiki/Society"
+                ]
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "rKcpHMOjJMnVOyufmIAA1MmVJLg",
+            "id": "1YNZf1TCCY4",
+            "statistics": {
+                "viewCount": "231972",
+                "likeCount": "6825",
+                "favoriteCount": "0",
+                "commentCount": "875"
+            },
+            "topicDetails": {
+                "topicCategories": [
+                    "https://en.wikipedia.org/wiki/Society"
+                ]
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "jtCx9soc9yxkd8wELSId5lkxCiA",
+            "id": "rvfn1wMAFgU",
+            "statistics": {
+                "viewCount": "148074",
+                "likeCount": "6383",
+                "favoriteCount": "0",
+                "commentCount": "773"
+            },
+            "topicDetails": {
+                "topicCategories": [
+                    "https://en.wikipedia.org/wiki/Business",
+                    "https://en.wikipedia.org/wiki/Knowledge"
+                ]
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "XXUDR_h07UrvGWqnn4GR9lvJOqQ",
+            "id": "vhtFSpK3p1Y",
+            "statistics": {
+                "viewCount": "116397",
+                "likeCount": "17886",
+                "favoriteCount": "0",
+                "commentCount": "1232"
+            },
+            "topicDetails": {
+                "topicCategories": [
+                    "https://en.wikipedia.org/wiki/Politics",
+                    "https://en.wikipedia.org/wiki/Society"
+                ]
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "6GQWG5W-rXwmClq5vg-PctkUBfA",
+            "id": "qhy4gRKAuaY",
+            "statistics": {
+                "viewCount": "5418143",
+                "likeCount": "138742",
+                "favoriteCount": "0",
+                "commentCount": "8951"
+            },
+            "topicDetails": {
+                "topicCategories": [
+                    "https://en.wikipedia.org/wiki/Entertainment",
+                    "https://en.wikipedia.org/wiki/Film"
+                ]
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "bqHdIfyp9YQrRCEtVv-2MlqsUk4",
+            "id": "-Y7dTMzn9B8",
+            "statistics": {
+                "viewCount": "251736",
+                "likeCount": "9492",
+                "favoriteCount": "0",
+                "commentCount": "2266"
+            },
+            "topicDetails": {
+                "topicCategories": [
+                    "https://en.wikipedia.org/wiki/Knowledge"
+                ]
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "LemhPP6FcZeWlW0JLZ0QqbxpIA8",
+            "id": "07oBIKIBWXM",
+            "statistics": {
+                "viewCount": "490895",
+                "likeCount": "8823",
+                "favoriteCount": "0",
+                "commentCount": "373"
+            },
+            "topicDetails": {
+                "topicCategories": [
+                    "https://en.wikipedia.org/wiki/Entertainment"
+                ]
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "mfk403d1l9KDi4vGKHq5xwmNVAY",
+            "id": "5fWH5zLxl5s",
+            "statistics": {
+                "viewCount": "252772",
+                "likeCount": "13815",
+                "favoriteCount": "0",
+                "commentCount": "1682"
+            },
+            "topicDetails": {
+                "topicCategories": [
+                    "https://en.wikipedia.org/wiki/Entertainment"
+                ]
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "yD5apzhJT0QKl54WlFI30HE1Q4M",
+            "id": "lZdGgm4y8Rg",
+            "statistics": {
+                "viewCount": "56435",
+                "likeCount": "1950",
+                "favoriteCount": "0",
+                "commentCount": "55"
+            },
+            "topicDetails": {
+                "topicCategories": [
+                    "https://en.wikipedia.org/wiki/Society"
+                ]
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "Tt1QAfQfw1lkorCPyJdw752RszY",
+            "id": "mgvNt7M_tUk",
+            "statistics": {
+                "viewCount": "540460",
+                "likeCount": "68973",
+                "favoriteCount": "0",
+                "commentCount": "367"
+            },
+            "topicDetails": {
+                "topicCategories": [
+                    "https://en.wikipedia.org/wiki/Lifestyle_(sociology)"
+                ]
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "2gIDZ5yJh46CwyiVppPRdjNHrYU",
+            "id": "dtiLxLrzjOQ",
+            "statistics": {
+                "viewCount": "253458",
+                "likeCount": "14876",
+                "favoriteCount": "0",
+                "commentCount": "1113"
+            },
+            "topicDetails": {
+                "topicCategories": [
+                    "https://en.wikipedia.org/wiki/Knowledge"
+                ]
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "fkx5_ZfN8aSRXRZk6UnjZHpiKEg",
+            "id": "edyyq99HxKg",
+            "statistics": {
+                "viewCount": "767110",
+                "likeCount": "5063",
+                "favoriteCount": "0"
+            },
+            "topicDetails": {
+                "topicCategories": [
+                    "https://en.wikipedia.org/wiki/Music"
+                ]
+            }
+        }
+    ],
+    "nextPageToken": "CB4QAA",
+    "pageInfo": {
+        "totalResults": 200,
+        "resultsPerPage": 30
+    }
+}
